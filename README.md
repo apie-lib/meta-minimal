@@ -1,0 +1,2 @@
+# meta-minimal
+Meta package
